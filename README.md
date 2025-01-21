@@ -27,4 +27,4 @@ Click the "Tell me the total calories" button to analyze the image and receive t
 Built With
 Streamlit - The web framework used for building interactive web applications with Python.
 Google Generative AI - Utilized for generative AI capabilities, specifically the Gemini Pro Vision API.
-Pillow (PIL) - Python Imaging Library used for opening, manipulating, and saving many different image file formats
+Pillow (PIL) - Python Imaging Library used for opening, manipulating, and saving many different image file formats.
