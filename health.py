@@ -61,7 +61,7 @@ You are an expert in nutritionist where you need to see the food items from the 
 
 """
 
-## If submit button is clicked
+## If submit button is clicked...
 
 if submit:
     image_data=input_image_setup(uploaded_file)
