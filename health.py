@@ -31,7 +31,7 @@ def input_image_setup(uploaded_file):
         ]
         return image_parts
     else:
-        raise FileNotFoundError("No fil uploaded")
+        raise FileNotFoundError("No file uploaded")
     
 ##initialize our streamlit app
 
